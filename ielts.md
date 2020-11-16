@@ -16,13 +16,39 @@ If you need someone to look at your letters and essay, please email it to me at 
 
 ## Listening
 
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 ## Reading
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## Writing
 
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 ## Speaking
 
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 
-Made with :heart: by :nerd_face: in :canada:.
+Made with :heart by :mask: in :canada:.
