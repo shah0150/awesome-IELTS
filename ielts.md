@@ -51,4 +51,4 @@ If you need someone to look at your letters and essay, please email it to me at 
 
 
 
-Made with :heart: by :mask: in :canada:.
+Made with :heart: by :nerd-face: in :canada:.
