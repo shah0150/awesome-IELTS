@@ -13,7 +13,7 @@ If you need someone to look at your letters and essay, please email it to me at 
 - [Reading](#reading)
 - [Writing](#writing)
 - [Speaking](#speaking)
-- [100+ computer based practice tests](#computer-based)
+- [100+ computer based practice tests](#mock-tests)
 
 ## Listening
 
@@ -49,10 +49,10 @@ If you need someone to look at your letters and essay, please email it to me at 
 - [IELTS Speaking Part Two topics](https://ieltsliz.com/ielts-speaking-part-2-topics/)
 - [IELTS Speaking Part Three topics](https://ieltsliz.com/ielts-speaking-part-3-topics-2/)
 
-## Computer-based
+## Mock Tests
 
-- []()
-- []()
+- [IELTS Academic Mock tests](https://ieltsonlinetests.com/ielts-exam-library#academic)
+- [IELTS General Mock tests](https://ieltsonlinetests.com/ielts-exam-library#general-test)
 
 
-Made with :heart by :mask: in :canada:.
+Made with :heart: by :mask: in :canada:.
