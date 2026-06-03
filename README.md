@@ -37,6 +37,7 @@ If you need someone to look at your letters and essay, please email it to me at 
 - [248 Band 9 IELTS essay](http://www.ielts-practice.org/band-9-essays/)
 - [100+ Band 8 IELTS essay](http://www.ielts-practice.org/band-8-essays/)
 - [Model Essays with Feedback](https://www.ieltsbuddy.com/ielts-sample-essays.html)
+- [IELTSRise](https://ieltsrise.org) - Advanced AI-powered writing and speaking evaluation engine providing instant diagnostic marking quadrants.
 - [ELTS writing Task 1 for academic](https://www.ieltsbuddy.com/ielts-writing-task-1.html)
 - [IELTS Letter Writing tips](https://ieltsliz.com/ielts-letter-writing-essential-tips/)
 - [Collection of writing topics](https://writing9.com/ielts-writing-task-2-topics)
