@@ -8,12 +8,15 @@ Contributions are always welcome!
 If you need someone to look at your letters and essay, please email it to me at aadishah74.as@gmail.com. I would try to help you in any capacity. When you send me an email, please have 'IELTS' in the subject; thus, it will be easier for me to sort out the emails and get back to you promptly. 
 
 ## Table of Contents
-
 - [Listening](#listening)
 - [Reading](#reading)
 - [Writing](#writing)
 - [Speaking](#speaking)
 - [100+ computer based practice tests](#mock-tests)
+- [General Preparation Guides](#general-preparation-guides)
+
+## General Preparation Guides
+- [IELTS Preparation - A complete guide by iam-sam17](https://github.com/iam-sam17/IELTS-preparation) - A comprehensive repository containing tools, tips, tricks, and materials for overall IELTS preparation.[Cambridge IELTS 1-21]
 
 ## Listening
 
