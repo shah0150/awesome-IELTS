@@ -41,6 +41,7 @@ If you need someone to look at your letters and essay, please email it to me at 
 - [IELTS Letter Writing tips](https://ieltsliz.com/ielts-letter-writing-essential-tips/)
 - [Collection of writing topics](https://writing9.com/ielts-writing-task-2-topics)
 - [IELTS Writing vocabulary](https://ielts-up.com/writing/ielts-vocabulary-writing.html)
+- [Free AI essay band checker](https://bandcheck.app/) - band estimate per criterion for Task 1 and Task 2
 
 ## Speaking
 
